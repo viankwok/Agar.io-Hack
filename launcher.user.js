@@ -229,7 +229,7 @@ console.log("Running Bot Launcher!");
     A = [
     ];
     w = x = null;
-    I = 0;
+    I = 100000;
     console.log('Connecting to ' + a);
     //UPDATE
     serverIP = a;
